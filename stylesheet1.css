@@ -1,0 +1,48 @@
+nav{
+    position: fixed;
+    width: 100%;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    background: #EEEEEE;
+}
+
+li{
+    /* text-decoration: none; */
+    display: inline;
+    float: right;
+    letter-spacing: 0.12em;
+    font-family: Rosarivo;
+    margin-right: 3%;
+
+}
+#resumify{
+    position: absolute;
+    width: 186px;
+    height: 26px;
+    left: 13px;
+    top: 10px;
+
+    font-family: Rosarivo;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    color: #646464;
+
+}
+
+#download{
+    background: #393939;
+    border-radius: 20px;
+    padding: 10px;
+    color: #ffffff;
+    position: relative;
+    bottom: 12px;
+    
+    
+    
+    
+}
